@@ -1,4 +1,4 @@
-// added 1 changes
+
 var test = prompt ('Set any number');
 if (test>0){
     alert('1');
